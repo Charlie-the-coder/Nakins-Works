@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+}
+
+#header {
+   font-size: 80 px;
+   font-family: fantasy;
+}
+
+#app {
+    background-image: linear-gradient( orange,red ) ;
+}
+
+#game {
+    background-image: linear-gradient(rgb(26, 202, 242),rgb(41, 236, 41));
+
+}
+
+img {
+    height: 200px;
+    height: 200px;
+}
+
+.line {
+    background-color: black;
+    height: 5px;
+    width: 100px;
+    margin: 2px auto;
+}
+
+hr {
+    width: 260px;
+    background-color: rgb(63, 234, 16);
+    height: 2px;
+}
